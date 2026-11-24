@@ -1,0 +1,38 @@
+{
+  "assets": [
+    {
+      "bytes": 98560000,
+      "name": "gazettes-2026-11.tar",
+      "sha256": "3265cc0c27675ff1d79ef6fff6ed1a4f65c6727639aa632532d5ecf627255951"
+    },
+    {
+      "bytes": 127836,
+      "name": "text-2026-11.tar.gz",
+      "sha256": "370301cd44667752713cae4e43af92350990d12c63c529c3e00020754a9fa25e"
+    },
+    {
+      "bytes": 53523,
+      "name": "manifest-2026-11.jsonl",
+      "sha256": "af64584447f5feb1a975811d978673f77f945a3bf5a99ecfe8ea67fabbbeaa74"
+    }
+  ],
+  "complete": true,
+  "documents": 50,
+  "files": {
+    "corrupt": 0,
+    "missing": 0,
+    "ok": 128,
+    "pending": 0
+  },
+  "first_issued": "2026-11-02",
+  "languages": {
+    "en": 45,
+    "si": 46,
+    "ta": 37
+  },
+  "last_issued": "2026-11-16",
+  "manifest_sha256": "af64584447f5feb1a975811d978673f77f945a3bf5a99ecfe8ea67fabbbeaa74",
+  "mirrored_at": "2026-11-24T12:14:04Z",
+  "pdf_bytes": 98460504,
+  "tag": "2026-11"
+}
