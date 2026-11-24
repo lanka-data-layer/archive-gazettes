@@ -1,0 +1,5 @@
+# What may be reused, and how
+
+- **The gazettes themselves** (the PDFs in this repository's releases, and their text) are official texts published by the Department of Government Printing, Sri Lanka, at [documents.gov.lk](https://documents.gov.lk). Official texts of a legislative, administrative or legal nature are not protected by copyright in Sri Lanka (Intellectual Property Act No. 36 of 2003, s. 8). The authoritative version of any gazette is the one the Government Printer publishes. This archive is a faithful copy, identified by SHA-256, and is not an official source.
+- **The metadata** in `metadata/` and `months/` (identifiers, dates, titles as listed, file checksums, sighting history) is compiled by Lanka Data Layer and licensed under [CC BY 4.0](LICENSE). Attribute it as: *Lanka Data Layer, archive-gazettes (github.com/lanka-data-layer/archive-gazettes)*.
+- Extracted text comes from the PDFs' text layer, or from OCR where a page has none. It can contain errors. Quote from the PDF.
